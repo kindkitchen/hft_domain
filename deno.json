@@ -1,0 +1,6 @@
+{
+  "nodeModulesDir": "auto",
+  "imports": {
+    "effect": "npm:effect@^3.18.4"
+  }
+}
