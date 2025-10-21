@@ -3,5 +3,5 @@
   "imports": {
     "effect": "npm:effect@^3.18.4"
   },
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
